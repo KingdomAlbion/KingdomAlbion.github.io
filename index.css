@@ -4,5 +4,22 @@ html{
 .container{
     max-width: 90%;
     margin-left: 5%;
-    background-color: rgb(168, 70, 70)
+    background-color: rgba(51, 50, 50, 0.43);
+}
+body{
+    background: static;
+}
+
+
+.navbar-expand-lg{
+    box-shadow: 0 4px 8px -2px rgba(0,0,2,.2);
+    background-color: rgba(51, 50, 50, 0.43);
+    margin-bottom: 20px;
+}
+
+.jumbotron{
+    max-width: 90%;
+    margin-left: 5%;
+    background-color: #73020dc2;
+
 }
