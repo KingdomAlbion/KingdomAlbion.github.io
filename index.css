@@ -21,7 +21,6 @@ body{
     max-width: 90%;
     margin-left: 5%;
     background-color: #8e000ede;
-
 }
 
 .d-block{
@@ -46,3 +45,14 @@ body{
     width: 100%;
 }
 
+@media only screen and (max-width: 600px) {
+    .omgeving-image {
+      display: none;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .omgeving-info {
+      display: none;
+    }
+  }
